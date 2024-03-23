@@ -1,0 +1,18 @@
+/* use this css style on inline css */
+
+.t-CardsRegion--styleB {
+    --a-cv-icon-container-size: 77px;
+    }
+    
+    .a-CardView-headerBody {
+        margin-top: -7px;
+    }
+    
+    img.a-CardView-iconImg {
+        margin-top: -20px;
+    }
+    a.a-CardView-fullLink:hover{
+        border: 2px solid #000;
+    
+    }
+    
